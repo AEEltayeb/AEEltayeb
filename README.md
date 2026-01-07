@@ -1,6 +1,7 @@
 # 💫 About Me:
 Master's student in computer science - IoT @UNISA<br>BSc in computer engineering @KFUPM
 
+🔭 I’m currently working on SPLIT - Ai powered coaching app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AEELTAYEB) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmad.qx@gmail.com) 
