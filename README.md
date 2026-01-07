@@ -1,8 +1,8 @@
 # 💫 About Me:
 Master's student in computer science - IoT @UNISA<br>BSc in computer engineering @KFUPM
 
-🔭 I’m currently working on:
-espresSol - Opensource solana hardware wallet app and firmware
+🔭 I’m currently working on:<br>
+espresSol - Opensource solana hardware wallet app and firmware<br>
 SPLIT - Ai powered coaching app
 
 ## 🌐 Socials:
